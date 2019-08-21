@@ -4,4 +4,4 @@ Learned this from: https://www.youtube.com/watch?v=5wtnKulcquA (This guy deserve
 
 Tips: 
 1. Work on VSCode like a civilized person.
-2. Also get cmder. 100000000000000x better than default win-cmd.
+2. Also get cmder. 100000000000000x better than cmd.
